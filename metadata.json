@@ -1,0 +1,5 @@
+{
+  "name": "React Super Mario",
+  "description": "A kid-friendly, single-level Super Mario style platformer game built with React, TypeScript, and Tailwind CSS. Features classic gameplay elements like stomping enemies, collecting coins from blocks, and sound effects.",
+  "requestFramePermissions": []
+}
